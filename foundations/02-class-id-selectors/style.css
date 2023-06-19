@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p {
+    background-color: pink;
+    color: black;
+    font-size: 24px;
+}
+
+.three {
+    font-size: 36px;
+}
+
+#one {
+    background-color: white;
+    color: rgb(110, 1, 188);
+    font-size: 48px;
+}
+
+#two {
+    background-color: mediumspringgreen;
+    font-weight: bold;
+    font-size: 32px;
+}
